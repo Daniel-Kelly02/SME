@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "imagem": "img/airpod.png",
+        "imagem": "https://github.com/Daniel-Kelly02/SME/blob/main/airpod.png",
         "nome": "Airpods",
         "principal_caracteristica": "Branco",
         "rating": 4.5,
@@ -47,7 +47,7 @@
     },
     {
         "id": 2,
-        "imagem": "img/iphone.png",
+        "imagem": "https://github.com/Daniel-Kelly02/SME/blob/main/iphone.png",
         "nome": "Iphone 15 Pro Max",
         "principal_caracteristica": "2 TB",
         "rating": 3.8,
@@ -97,7 +97,7 @@
     },
     {
         "id": 3,
-        "imagem": "img/xbox.png",
+        "imagem": "https://github.com/Daniel-Kelly02/SME/blob/main/xbox.png",
         "nome": "Xbox Series X",
         "principal_caracteristica": "1 TB",
         "rating": 4.5,
@@ -147,7 +147,7 @@
     },
     {
         "id": 4,
-        "imagem": "img/macbook.png",
+        "imagem": "https://github.com/Daniel-Kelly02/SME/blob/main/macbook.png",
         "nome": "MacBook Pro 2023",
         "principal_caracteristica": "512 GB 16GB RAM",
         "rating": 4.8,
@@ -197,7 +197,7 @@
     },
     {
         "id": 5,
-        "imagem": "img/Smartwatch.jpg",
+        "imagem": "https://github.com/Daniel-Kelly02/SME/blob/main/Smartwatch.jpg",
         "nome": "Smartwatch T900",
         "principal_caracteristica": "Carregamento sem fio",
         "rating": 4.5,
@@ -247,7 +247,7 @@
     },
     {
         "id": 5,
-        "imagem": "img/Smartwatch.jpg",
+        "imagem": "https://github.com/Daniel-Kelly02/SME/blob/main/Smartwatch.jpg",
         "nome": "Smartwatch T900",
         "principal_caracteristica": "Carregamento sem fio",
         "rating": 4.5,
